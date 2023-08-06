@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @LixiteOoloi
+- I'm currently learning about MySql, Javascript, C/C++, and Python
